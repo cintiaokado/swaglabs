@@ -19,7 +19,7 @@ Para que sua automação possa ser realizada é necessário instalar alguns recu
 Windows
 --------
 
-<h3>4. Instalando o Node.js</h3>
+<h3>1. Instalando o Node.js</h3>
 *   Windows:
 Acesse a página de download do Node.js.
 Baixe o instalador apropriado para seu sistema operacional.
@@ -28,14 +28,14 @@ Execute o instalador e siga as instruções na tela.
 Utilizei a versão v18.17.1
 
 
-<h3>1. Instalando o Cypress</h3>
+<h3>2. Instalando o Cypress</h3>
 
 *	Dentro do terminal digite: 
 npm install --save-dev cypress, se a instalação estiver correta aparecerá a versão instalada.
 
 Utilizei a versão 13.6.2
 
-<h3>2. Instalando o Cucumber</h3>
+<h3>3. Instalando o Cucumber</h3>
 
 *	Dentro do terminal digite: 
 npm install --save-dev cypress-cucumber-preprocessor, se a instalação estiver correta aparecerá um arquivo na pasta cypress/plugins/index.js.
