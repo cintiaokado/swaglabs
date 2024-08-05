@@ -28,14 +28,14 @@ Execute o instalador e siga as instruções na tela.
 Utilizei a versão v18.17.1
 
 
-<h3>4. Instalando o Cypress</h3>
+<h3>1. Instalando o Cypress</h3>
 
 *	Dentro do terminal digite: 
 npm install --save-dev cypress, se a instalação estiver correta aparecerá a versão instalada.
 
 Utilizei a versão 13.6.2
 
-<h3>4. Instalando o Cucumber</h3>
+<h3>2. Instalando o Cucumber</h3>
 
 *	Dentro do terminal digite: 
 npm install --save-dev cypress-cucumber-preprocessor, se a instalação estiver correta aparecerá um arquivo na pasta cypress/plugins/index.js.
