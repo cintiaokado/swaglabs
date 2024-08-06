@@ -61,10 +61,10 @@ Executando os testes automatizados
 Para executar o testes automatizados usaremos alguns comandos a partir da pasta raiz do nosso projeto.
 
 *	Para acessar o arquivo salvo no diretório utilizamos o seguinte caminho:
-`bash
+`
 cd /c/swaglabs
 `
 *  Para execução de todos os cenários implementados utilizamos o seguinte código:
-`bash
+`
 npx cypress open
 `
